@@ -1,0 +1,3 @@
+For Java beginners, I recommend to start with setting up a development environment.
+It is easier to understand concepts by running actual code and testing them.
+This Java tutorial is written to help newbie Java programmers to prepare their Windows Development Environment.
